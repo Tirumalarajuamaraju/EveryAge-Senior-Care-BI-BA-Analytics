@@ -1,5 +1,5 @@
 # EveryAge-Senior-Care-BI-BA-Analytics
-# Senior Care – EHR, HR & Operations BI Analytics
+## Senior Care – EHR, HR & Operations BI Analytics
 
 ## Project Overview
 
